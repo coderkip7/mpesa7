@@ -1,0 +1,22 @@
+num1=54
+num2=3.65
+myname='Mr.Dennis'
+mybool1=True
+mybool2=False
+mybool3="eMobilis"
+mynum4= 2 + 8j
+mylist=[2,"Javascript",8.95,True]
+mylist[0]="BLACKED"
+mytuple=("Moana",6,"sea","7.65")
+mylist2=[2,90,8,-8,5,6,1,0.5]
+print(type(myname))
+print(type(num2))
+print(type(mybool1))
+print(type(mybool2))
+print(type(mybool3))
+print(type(num1))
+print(type(mynum4))
+print(mylist)
+print(type(mylist))
+print(mylist[2])
+print(type(mytuple))
